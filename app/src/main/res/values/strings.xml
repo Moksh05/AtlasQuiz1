@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="welcome">Welcome</string>
+    <string name="inputhint">Enter Your Name</string>
+    <string name="start">START</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="question">What Country does this flag belong to?</string>
+    <string name="flag_image">Flag Image</string>
+    <string name="check">Check</string>
+    <string name="result">RESULT!!</string>
+</resources>
